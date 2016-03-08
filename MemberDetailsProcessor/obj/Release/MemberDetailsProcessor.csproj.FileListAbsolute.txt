@@ -1,0 +1,16 @@
+D:\NodeProjects\WebApp\MemberDetailsProcessor\bin\Release\MemberDetailsProcessor.exe.config
+D:\NodeProjects\WebApp\MemberDetailsProcessor\bin\Release\MemberDetailsProcessor.exe
+D:\NodeProjects\WebApp\MemberDetailsProcessor\bin\Release\MemberDetailsProcessor.pdb
+D:\NodeProjects\WebApp\MemberDetailsProcessor\bin\Release\DocumentProcessor.dll
+D:\NodeProjects\WebApp\MemberDetailsProcessor\bin\Release\DocumentProcessor.pdb
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MemberDetailsProcessor.csprojResolveAssemblyReference.cache
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MainWindow.g.cs
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\App.g.cs
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MemberDetailsProcessor_MarkupCompile.cache
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MemberDetailsProcessor_MarkupCompile.lref
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MainWindow.baml
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MemberDetailsProcessor.g.resources
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MemberDetailsProcessor.Properties.Resources.resources
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MemberDetailsProcessor.csproj.GenerateResource.Cache
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MemberDetailsProcessor.exe
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MemberDetailsProcessor.pdb

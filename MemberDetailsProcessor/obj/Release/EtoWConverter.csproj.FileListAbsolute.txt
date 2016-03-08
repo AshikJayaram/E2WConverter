@@ -1,0 +1,16 @@
+D:\NodeProjects\WebApp\MemberDetailsProcessor\bin\Release\DocumentProcessor.dll
+D:\NodeProjects\WebApp\MemberDetailsProcessor\bin\Release\DocumentProcessor.pdb
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\EtoWConverter.csprojResolveAssemblyReference.cache
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MainWindow.g.cs
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\App.g.cs
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MainWindow.baml
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\MemberDetailsProcessor.Properties.Resources.resources
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\EtoWConverter.csproj.GenerateResource.Cache
+D:\NodeProjects\WebApp\MemberDetailsProcessor\bin\Release\EtoWConverter.exe.config
+D:\NodeProjects\WebApp\MemberDetailsProcessor\bin\Release\EtoWConverter.exe
+D:\NodeProjects\WebApp\MemberDetailsProcessor\bin\Release\EtoWConverter.pdb
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\EtoWConverter_MarkupCompile.cache
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\EtoWConverter_MarkupCompile.lref
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\EtoWConverter.g.resources
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\EtoWConverter.exe
+D:\NodeProjects\WebApp\MemberDetailsProcessor\obj\Release\EtoWConverter.pdb

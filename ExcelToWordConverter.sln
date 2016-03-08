@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentProcessor", "DocumentProcessor\DocumentProcessor.csproj", "{9A097A16-2F2D-4C86-B9EE-6107ADB24A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2WConverter", "MemberDetailsProcessor\E2WConverter.csproj", "{DC04D73A-321B-41B5-8D8B-F65A3B3B2A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A097A16-2F2D-4C86-B9EE-6107ADB24A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A097A16-2F2D-4C86-B9EE-6107ADB24A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A097A16-2F2D-4C86-B9EE-6107ADB24A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A097A16-2F2D-4C86-B9EE-6107ADB24A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC04D73A-321B-41B5-8D8B-F65A3B3B2A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC04D73A-321B-41B5-8D8B-F65A3B3B2A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC04D73A-321B-41B5-8D8B-F65A3B3B2A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC04D73A-321B-41B5-8D8B-F65A3B3B2A85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

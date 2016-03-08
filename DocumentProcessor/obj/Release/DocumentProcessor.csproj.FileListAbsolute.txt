@@ -1,0 +1,5 @@
+D:\NodeProjects\WebApp\DocumentProcessor\bin\Release\DocumentProcessor.dll
+D:\NodeProjects\WebApp\DocumentProcessor\bin\Release\DocumentProcessor.pdb
+D:\NodeProjects\WebApp\DocumentProcessor\obj\Release\DocumentProcessor.csproj.ResolveComReference.cache
+D:\NodeProjects\WebApp\DocumentProcessor\obj\Release\DocumentProcessor.dll
+D:\NodeProjects\WebApp\DocumentProcessor\obj\Release\DocumentProcessor.pdb
